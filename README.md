@@ -30,7 +30,7 @@ Clona este repositorio en tu máquina local o servidor y dale permisos de ejecuc
 
 ```bash
 # 1. Clonar el repositorio (Reemplaza con la URL de tu repo)
-git clone [https://github.com/tu-usuario/Depwisescript.git](https://github.com/tu-usuario/Depwisescript.git)
+git clone [[https://github.com/tu-usuario/Depwisescript.git](https://github.com/Depwisescript/Escaner/blob/a042c007f96510bb12a8ed9f09b630336a0ecf55/depwise_scanner.sh)]
 
 # 2. Entrar al directorio
 cd Depwisescript
