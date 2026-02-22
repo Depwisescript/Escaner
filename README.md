@@ -37,3 +37,23 @@ cd Escaner
 
 # 3. Dar permisos de ejecución al script
 chmod +x depwise_scanner.sh
+```
+💻 Uso
+Para iniciar la herramienta, simplemente ejecuta el script. La primera vez que lo corras, pedirá permisos de sudo si necesita instalar las dependencias (Go, Assetfinder, httpx).
+
+Bash
+./depwise_scanner.sh
+Opciones del Menú:
+Solo buscar subdominios (Assetfinder): Te pedirá un dominio principal y generará un archivo .txt con todos los subdominios encontrados.
+
+Detectar CDN/WAF en una lista existente (httpx): Te permite ingresar el nombre de un archivo .txt que ya contenga subdominios para analizar qué servicios corren en ellos.
+
+Escaneo Completo Automático (Recomendado): Realiza el paso 1 y el paso 2 de forma secuencial y automatizada.
+
+Salir: Cierra la herramienta de forma segura.
+
+⚠️ Aviso Legal
+Esta herramienta ha sido creada con fines educativos y para su uso en auditorías de seguridad autorizadas, programas de Bug Bounty y administración de sistemas propios. El uso de esta herramienta contra objetivos sin consentimiento previo mutuo es ilegal. El desarrollador no asume ninguna responsabilidad por el mal uso o daño causado por este programa.
+
+👤 Autor
+Desarrollado por @Dan3651 como parte del proyecto Depwise.
