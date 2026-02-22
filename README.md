@@ -41,8 +41,9 @@ chmod +x depwise_scanner.sh
 💻 Uso
 Para iniciar la herramienta, simplemente ejecuta el script. La primera vez que lo corras, pedirá permisos de sudo si necesita instalar las dependencias (Go, Assetfinder, httpx).
 
-Bash
+```bash
 ./depwise_scanner.sh
+```
 Opciones del Menú:
 Solo buscar subdominios (Assetfinder): Te pedirá un dominio principal y generará un archivo .txt con todos los subdominios encontrados.
 
