@@ -30,7 +30,7 @@ Clona el repositorio en tu máquina local o servidor VPS y dale permisos de ejec
 
 ```bash
 # 1. Clonar el repositorio
-git clone [https://github.com/Depwisescript/Escaner.git](https://github.com/Depwisescript/Escaner.git)
+git clone https://github.com/Depwisescript/Escaner.git
 
 # 2. Entrar al directorio
 cd Escaner
