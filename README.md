@@ -26,14 +26,14 @@ Este script integra herramientas potentes del ecosistema de ciberseguridad y aut
 
 ## ⚙️ Instalación
 
-Clona este repositorio en tu máquina local o servidor y dale permisos de ejecución al script. El script está optimizado para distribuciones basadas en Debian/Ubuntu.
+Clona el repositorio en tu máquina local o servidor VPS y dale permisos de ejecución al script. El entorno está optimizado para distribuciones basadas en Debian/Ubuntu.
 
 ```bash
-# 1. Clonar el repositorio (Reemplaza con la URL de tu repo)
-git clone [[https://github.com/tu-usuario/Depwisescript.git](https://github.com/Depwisescript/Escaner/blob/a042c007f96510bb12a8ed9f09b630336a0ecf55/depwise_scanner.sh)]
+# 1. Clonar el repositorio
+git clone [https://github.com/Depwisescript/Escaner.git](https://github.com/Depwisescript/Escaner.git)
 
 # 2. Entrar al directorio
-cd Depwisescript
+cd Escaner
 
 # 3. Dar permisos de ejecución al script
 chmod +x depwise_scanner.sh
